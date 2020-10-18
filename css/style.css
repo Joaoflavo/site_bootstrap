@@ -1,0 +1,82 @@
+@media screen and (max-width:700px){
+    .body{
+    display: flex;
+    
+    
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+
+}
+.rounded-circle{
+    border-radius: 4rem;
+    border:5px;
+    margin-top: 10px;
+    
+    
+
+}
+@media screen and (max-width:700px){
+    .body{
+        width: 50%;
+    }
+}
+@media screen and (min-width:1000px){
+    .body{
+        width: 50%;
+    }
+}
+
+body{
+    font: 18px Garamond bold, Arial, sans-serif;
+    
+}
+.navbar{
+    background-color:#2ECCFA;  
+}
+
+.quemsomos{
+    background-color: #CEF6F5;
+    color:black;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.quemsomos{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.corpotext{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font: 20px'NetflixSans-Bold',Garamond, Arial, sans-serif;
+    color: (rgba(0, 0, .50),rgba(0, 0, .50)100%);
+   
+
+}
+.autoplay{
+    @media screen {
+        
+        
+    }
+    .progressBar
+    padding-top: 30px;
+        position: relative;
+        width: 100%;
+        height: height:10px;
+        backgroud-color: #000;
+        
+
+    .timeBar
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100%;
+        background-color: #ccc; 
+}
