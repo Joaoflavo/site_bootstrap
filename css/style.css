@@ -107,3 +107,11 @@ IMG.displayed {
     margin-left: 2vh;
     transform: translate(20vh, 050vh)
 }
+.myVideo{
+    padding: 20vh 10vh 20vh 10vh;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-width: 5px;
+    border-radius: 10vh;
+}
