@@ -116,3 +116,18 @@ IMG.displayed {
     border-bottom-width: 5px;
     border-radius: 10vh;
 }
+hr{
+    border-color:rgb(12, 12, 12);
+    box-sizing:border-box;
+      
+  }
+  {
+    width: 100%;
+    border-bottom: 3px solid #000000;
+  }
+  .logo:hover{
+      
+      cursor:pointer;
+      overflow: hidden;
+      
+  }
