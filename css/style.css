@@ -58,8 +58,52 @@ body{
    
 
 }
-.autoplay{
-@media screen {   
+.progressBar
+    padding-top: 30px;
+        position: relative;
+        width: 100%;
+        height: height:10px;
+        backgroud-color: #000;
         
+
+    .timeBar
+    {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100%;
+        background-color: #ccc; 
 }
+P.blocktext {
+    display: inline-block;
+    margin-top: -7vh;
+    padding: 3.5rem;
+    margin-left: auto;
+    margin-right: -40vh;
+    max-resolution: right 200vh;
+    max-resolution: left 200vh;
+    width: 47%;
+    height: 40%;
+    text-justify: distribute;
+    align-items: center;
+    text-align: left;
+    text-align: justify;
+    
+    
+}
+IMG.displayed {
+    display: block;
+    padding: 7vh;
+    max-resolution: right 200vh;
+    max-resolution: left 200vh;
+    margin-left: 20vh;
+    margin-right: +20vh;
+    margin: 0;
+    width: -47%;
+    left: -30vh;
+    align-items: center;
+    margin-right: 30vh;
+    margin-left: 2vh;
+    transform: translate(20vh, 050vh)
 }

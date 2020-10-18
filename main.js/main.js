@@ -1,17 +1,22 @@
-.progressBar
-    padding-top: 30px;
-        position: relative;
-        width: 100%;
-        height: height:10px;
-        backgroud-color: #000;
-        
-
-    .timeBar
-    {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 0;
-        height: 100%;
-        background-color: #ccc; 
+.autoplay{
+    @media screen {   
+            
+    }
 }
+//return a DOM object
+var video = document.getElementById('videoID'); //or
+var video = $('#videoID').get(0); //or
+var video = $('#videoID')[0];
+ 
+//return a jQuery object
+var video = $('#videoID');
+//Play/Pause control clicked
+$('.btnPlay').on('click', function() {
+    if(video[0].paused) {
+        video[0].play();
+    }
+    else {
+        video[0].pause();
+    }
+    return false;
+};
