@@ -7,5 +7,6 @@
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
-![ Alt text](Reading GIF. gif) / ! [](https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif)
+<img src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" width="40" height="40" />
+
                                         README. 💝
