@@ -120,10 +120,9 @@ hr{
     border-color:rgb(12, 12, 12);
     box-sizing:border-box;
       
-  }
-  {
-    width: 100%;
-    border-bottom: 3px solid #000000;
+  
+    
+    border-bottom: 1px solid #000000;
   }
   .logo:hover{
       
